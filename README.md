@@ -3,11 +3,11 @@
 
 **Creation Date:** 25-03-19
 
-**Last updated:** 2025-04-03 by JS
+**Last updated:** 2026-09-13 by KR
 
 **Contact:** [info@material-digital.de](mailto:info@material-digital.de)
 
-Hello MaterialNeutral1 Projects,
+Hello MaterialNeutral3 Projects,
 
 The PMD Data Portal serves the sustainable storage of your project data. Here you will find a brief guide that shows how you can utilize the key functions of the PMD Data Portal. This is explained through 3 user stories. User Story 1 demonstrates how to search for data and explore the Data Portal. User Story 2 is dedicated to consuming or downloading datasets. User Story 3 focuses on how to deposit your own datasets in the Data Portal. Additionally, example formats for data storage are provided. Beyond these simple user stories, the Data Portal offers many additional features to generate semantic descriptions and knowledge graphs of your data, as well as to store them in RDF format in a Fuseki triple store. If you are interested in this, please feel free to contact us directly or utilize the offered web meetings (dates will be arranged). Good luck with using the PMD Data Portal.
 
@@ -24,7 +24,7 @@ Our features include:
 
 - Easy data management: upload your datasets in different formats and manage them in one place.
 
-- Secure storage: Your data is safe with us. We use the latest security standards to protect your information
+- Secure storage: Your data is safe with us. We use the latest security standards to protect your information.
 
 - Flexible sharing: Share your data sets with colleagues or the public, according to your needs.
 
@@ -34,15 +34,15 @@ At MaterialDigital, we believe in the power of FAIR data and shared structures a
 
 Join our community and experience how easy and effective data management can be!
 
-Your PMD Team 
-
 Contact us here for more information, support and exchange.
+
+Your PMD Team 
 
 ## Creating a User Account
 
 In order to use the user specific functinalities (e.g.  Data upload, creation of groups, ...) of the DataPartal you first need to create an account on the PMD Website.
 
-The direct link to the SingUp Page can be found at the [PMD Web page](https://www.material-digital.de/signup/). 
+The direct link to the SingUp Page can be found at the [PMD Web page](https://www.material-digital.de/signup/). You can only use a corporate domain.
 
 There you will be guided through the sing up process and relevant data is inquired.
 
@@ -57,7 +57,7 @@ The same credentials are then used when you want to sign into the [DataPortal](h
 > As a visiting user, I would like to explore what kind of material data I can find on the PMD Data Portal and if there is data available for the material I am interested in.
 
 #### Landing Page DataPortal
-If you enter the following address in your browser, you will be directed to the PMD Data Portal: [https://dataportal-demo.material-digital.de/](https://dataportal-demo.material-digital.de/)
+If you enter the following address in your browser, you will be directed to the [PMD Data Portal]([https://dataportal-demo.material-digital.de/](https://dataportal.material-digital.de/)
 
 The Log In button in the right-hand corner indicates that you are a visiting user with limited access to the DataPortal. If you would like to access the site as a registered user, please go to the following section to find out how to register: Link to section.
  ![Landingpage](./images/DataPotal_Landing%20Page.png)
