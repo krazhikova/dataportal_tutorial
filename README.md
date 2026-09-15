@@ -57,7 +57,7 @@ The same credentials are then used when you want to sign into the [DataPortal](h
 > As a visiting user, I would like to explore what kind of material data I can find on the PMD Data Portal and if there is data available for the material I am interested in.
 
 #### Landing Page DataPortal
-If you enter the following address in your browser, you will be directed to the [PMD Data Portal]([https://dataportal-demo.material-digital.de/](https://dataportal.material-digital.de/)
+If you enter the following address in your browser, you will be directed to the [PMD Data Portal](https://dataportal.material-digital.de/)
 
 The Log In button in the right-hand corner indicates that you are a visiting user with limited access to the DataPortal. If you would like to access the site as a registered user, please go to the following section to find out how to register: Link to section.
  ![Landingpage](./images/DataPotal_Landing%20Page.png)
@@ -106,22 +106,22 @@ Your selected filters can be deselected by clicking on the “x”. ![Filter](./
 By clicking on the desired dataset in the main display area further information about the dataset will be provided.
 
 #### Final Remarks: 
-If there are any questions in regards to CKAN along the way there is always the chance to explore the CKAN Website, which can either be found here (https://ckan.org/) or at the bottom of the DataPotal page under Powered by ckan.
+If there are any questions in regards to CKAN along the way there is always the chance to explore the CKAN Website, which can either be [found here](https://ckan.org/) or at the bottom of the DataPotal page under **Powered by ckan**.
 ![US1_1](./images/DataPotal_US1_1.png)
 
 ### User Story 2:
 As a visiting user, I found some interesting datasets and I want to digest/consume them, for further analysis.
 
-In the given scenario all functionalities are explained based on the dataset [42CrMoS4 Tensile Tests Fraunhofer IWM] (https://kit-pmd-4.ydns.eu/dataset/42crmos4-tensile-test-iwm). This dataset offers a wide range of different resources.
+In the given scenario all functionalities are explained based on the dataset [42CrMoS4 Tensile Tests Fraunhofer IWM](https://kit-pmd-4.ydns.eu/dataset/42crmos4-tensile-test-iwm). This dataset offers a wide range of different resources.
 
 Once you have narrowed down your search explained in Story 1, you have several options to consume the data. 
 ![US2_1](./images/DataPotal_US2_1.png)
 
 After clicking on the dataset, the “Dataset Overview Page” will appear with information about the dataset such as: 
-- main contact person for the dataset
-- publishing organization
-- creator of the dataset
-- and others
+- Main contact person for the dataset.
+- Publishing organization.
+- Creator of the dataset.
+- And others.
 
 In this example, we are looking at a dataset that has been published by another person. Therefore, only the tabs Dataset and Groups are displayed. An additional "FUSEKI" tab will appear when viewing a record you have uploaded. How you can upload your own datasets will be explained in the chapter 3. 
 
@@ -188,8 +188,8 @@ Right Clicking on Explore and selecting Download either directly starts the down
 
 #### Create Mapping
  
- By clicking on the option **Create mapping** for a given resource of the dataset you will be guided to the following page. 
- Create a rule bases mapping by filling the form below. It will query the given metadata file and the graph template by the Class IRI set for subjects and objects. When clicking "Start Mapping" select widgets will spawn allowing you to map a subject to an object. The resulting YAML file will contain a ruleset for each of the assertions made, and when run create triples connecting the subject meeting the condition by the predicate IRI given. Download the file, make changes if needed and upload it to the "mappings" group here in CKAN if you want to make use of the automated mapping process applying the mapping.
+By clicking on the option **Create mapping** for a given resource of the dataset you will be guided to the following page. 
+Create a rule bases mapping by filling the form below. It will query the given metadata file and the graph template by the Class IRI set for subjects and objects. When clicking "Start Mapping" select widgets will spawn allowing you to map a subject to an object. The resulting YAML file will contain a ruleset for each of the assertions made, and when run create triples connecting the subject meeting the condition by the predicate IRI given. Download the file, make changes if needed and upload it to the "mappings" group here in CKAN if you want to make use of the automated mapping process applying the mapping.
  
  ![US2_11](./images/DataPotal_US2_11.png)
  
